@@ -1,0 +1,9 @@
+body {
+  font-family: 'Courier New', Courier, 'Times New Roman';
+  background-color: rgb(230, 210, 101);
+}
+
+.title {
+  text-align: center;
+  font-size: 48px;
+}
